@@ -15,3 +15,7 @@ Script 10 is to set the mode of the file hello the same as olleh’s mode.
 Script 11 is to add execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 Script 12 is to create a script that creates a directory called my_dir with permissions 751 in the working directory.
 Script 13 is to change the group owner to school for the file hello.
+Script 100 is to change the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+Script 101 is to change the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+Script 102 is to the owner of the file hello to betty only if it is owned by the user guillaume.
+Script 103 is to play the StarWars IV episode in the terminal.
